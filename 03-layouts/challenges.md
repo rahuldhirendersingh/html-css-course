@@ -11,3 +11,7 @@
 ## Layouts
 
 [Challenge 1-Floats](https://codepen.io/rahuldhirendersingh/pen/PoXeEgZ)!
+
+[Challenge 2-Flexbox](https://codepen.io/rahuldhirendersingh/pen/YzdvRLx)!
+
+[Challenge 3-Grid](https://codepen.io/rahuldhirendersingh/pen/KKberRY)!
